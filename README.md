@@ -1,2 +1,1 @@
-# PPT-template
-PowerPoint template
+# useful material
